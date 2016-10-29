@@ -21,5 +21,10 @@ namespace Lab_1
         {
             label1.Text = "Нажата кнопка Button 1";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Нажата кнопка Button 2";
+        }
     }
 }
